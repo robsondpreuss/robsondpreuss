@@ -7,6 +7,13 @@
   <img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsondpreuss&theme=tokyonight"/>
 </div>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+  
+<div style="display: inline_block" align="center"><br>
+  <img align="center" alt="HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
+  <img align="center" alt="JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
+</div>
   
 ##
   
